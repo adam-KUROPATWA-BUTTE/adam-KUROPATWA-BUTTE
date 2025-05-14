@@ -16,8 +16,8 @@
 | Projet | Description | Langages |
 |--------|-------------|----------|
 | [DGJ Bot](https://github.com/adam-KUROPATWA-BUTTE/dgj-bot-site) | Bot musical Discord open-source | `Node.js` `Discord.js` |
-| [Eclipsera](https://github.com/adam-KUROPATWA-BUTTE/eclipsera) *(à créer)* | Jeu de survie narratif en C++ | `C++` |
-| [App Voyage IA](https://github.com/adam-KUROPATWA-BUTTE/ai-travel-app) *(à créer)* | Application mobile IA pour créer des voyages personnalisés | `Flutter` `Python` |
+| [Eclipsera](https://github.com/adam-KUROPATWA-BUTTE/eclipsera) | Jeu de survie narratif en C++ | `C++` |
+| [App Voyage IA](https://github.com/adam-KUROPATWA-BUTTE/ai-travel-app) | Application mobile IA pour créer des voyages personnalisés | `Flutter` `Python` |
 
 ---
 
