@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Salut 👋, moi c'est Adam</h1>
+<h3 align="center">Je suis un développeur passionné par les bots Discord, le web et les jeux vidéo</h3>
 
-<!--
-**adam-KUROPATWA-BUTTE/adam-KUROPATWA-BUTTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎧 Je développe actuellement un bot de musique pour Discord nommé **DGJ**
+- 🌍 Je travaille sur plusieurs projets en C++, web et mobile
+- 🎮 Je conçois aussi un jeu vidéo open-world nommé **Eclipsera**
+- 📫 Contact : `adam.kuro@gmail.com` (ou ton Discord public)
+
+---
+
+## 🚀 Projets en cours
+
+| Projet | Description | Langages |
+|--------|-------------|----------|
+| [DGJ Bot](https://github.com/adam-KUROPATWA-BUTTE/dgj-bot-site) | Bot musical Discord open-source | `Node.js` `Discord.js` |
+| [Eclipsera](https://github.com/adam-KUROPATWA-BUTTE/eclipsera) *(à créer)* | Jeu de survie narratif en C++ | `C++` |
+| [App Voyage IA](https://github.com/adam-KUROPATWA-BUTTE/ai-travel-app) *(à créer)* | Application mobile IA pour créer des voyages personnalisés | `Flutter` `Python` |
+
+---
+
+## 🧰 Outils & Technologies
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,py,flutter,html,css,github,vscode" alt="Tech stack" />
+
+---
+
+## 📊 Stats GitHub
+
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-KUROPATWA-BUTTE&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-KUROPATWA-BUTTE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌐 Liens
+
+- [Portfolio (à venir)](https://tonsite.github.io)
+- [Bot DGJ - Politique & CGU](https://adam-KUROPATWA-BUTTE.github.io/dgj-bot-site)
