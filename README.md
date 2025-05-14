@@ -8,8 +8,7 @@
 - 🎧 Je développe actuellement un bot de musique pour Discord nommé **DGJ**
 - 🌍 Je travaille sur plusieurs projets en C++, web et mobile
 - 🎮 Je conçois aussi un jeu vidéo open-world nommé **Eclipsera**
-- 📫 Contact : `adam.kuro@gmail.com` (ou ton Discord public)
-
+- 📫 Contact : `mada#4664`
 ---
 
 ## 🚀 Projets en cours
