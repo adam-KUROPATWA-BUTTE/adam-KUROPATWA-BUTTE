@@ -33,10 +33,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-KUROPATWA-BUTTE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/adam-KUROPATWA-BUTTE/dgj-bot-site)
-
-![GitHub stars](https://img.shields.io/github/stars/adam-KUROPATWA-BUTTE/dgj-bot-site?style=social)
-
 
 ---
 
