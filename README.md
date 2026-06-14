@@ -42,5 +42,5 @@
 
 ## 🌐 Liens
 
-- [Portfolio (à venir)](https://adamkuropatwa.com)
+- [Portfolio](https://adamkuropatwa.com)
 - [Bot DGJ - Politique & CGU](https://adam-KUROPATWA-BUTTE.github.io/dgj-bot-site)
