@@ -12,7 +12,7 @@
 ---
 
 
-![Mon GitHub Game](adam-KUROPATWA-BUTTE-space-shooter.gif)
+![Mon GitHub Game](<img width="860" height="230" alt="adam-KUROPATWA-BUTTE-space-shooter" src="https://github.com/user-attachments/assets/9161ce95-3c32-4610-92fd-3757be063bd7" />)
 
 
 ## 🚀 Projets en cours
